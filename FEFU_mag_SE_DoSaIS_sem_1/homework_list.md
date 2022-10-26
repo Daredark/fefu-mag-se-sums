@@ -54,6 +54,23 @@ Google Colaboratory).
 
 &nbsp;
 
+### ___Английский язык для специальных целей___
+
+&nbsp;
+
+- Для тех, кто был на паре 26.10.2022:
+    - Page 149. Lesson 1. Exercise 12.
+    - Page 150. Lesson 1. Exercises 13, 14.
+- Для тех, кого НЕ было на паре 26.10.2022:
+    - Page 145. Lesson 2. Exercise 2.
+    - Page 146. Lesson 2. Exercises 5, 6.
+    - Page 147. Lesson 1. Exercise 3.
+    - Page 148. Lesson 1. Exercises 4-7.
+    - Page 149. Lesson 1. Exercise 12.
+    - Page 150. Lesson 1. Exercises 13, 14.
+
+&nbsp;
+
 ___
 
 &nbsp;
