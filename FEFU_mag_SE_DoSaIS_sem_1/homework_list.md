@@ -26,6 +26,31 @@ ___
 
 &nbsp;
 
+## Задания до 14.12.2022
+
+&nbsp;
+
+### ___Английский язык для специальных целей___
+
+&nbsp;
+
+- Для тех, кто был на паре 07.12.2022 (module 1. Reading.pdf):
+    - Page 13. Exercise 11. - On the Internet, find a short conference
+    announcement, and save it in MS Teams.
+- Для тех, кого НЕ было на паре 07.12.2022 (module 1. Reading.pdf):
+    - Page 10. Exercises 2, 3.
+    - Pages 11-12. Exercise 5.
+    - Page 12. Exercises 6-9.
+    - Page 13. Exercise 10.
+    - Page 13. Exercise 11. - On the Internet, find a short conference
+    announcement, and save it in MS Teams.
+
+&nbsp;
+
+___
+
+&nbsp;
+
 ## Задания до 07.12.2022
 
 &nbsp;
