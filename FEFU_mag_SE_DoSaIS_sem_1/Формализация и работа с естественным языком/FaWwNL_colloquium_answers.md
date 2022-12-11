@@ -8,14 +8,14 @@ ___
 
 Добавить содержание, через которое можно перемещаться к ответам и обратно.
 1. 12652 chars
-2. 3175 chars
-3. 2196 chars (completed, normalize length)
-4. 3032 chars
-5. 2003 chars
-6. 1185 chars
+2. 3170 chars (completed, normalize length) (weak)
+3. 2196 chars (completed, normalize length) (almost strong)
+4. 3032 chars (completed, normalize length) (weak)
+5. 2003 chars (completed, normalize length) (almost strong)
+6. 1185 chars (completed, normalize length) (strong)
 7.
 8. 2824 chars
-9. 1435 chars (completed, normalize length)
+9. 1435 chars (completed, normalize length) (strong)
 10. 2141 chars
 11. 1320 chars
 12. 2604 chars
@@ -26,7 +26,7 @@ ___
 17.
 18.
 19.
-20. 149 chars (completed, normalize length)
+20. 149 chars (completed, normalize length) (WAY TOO STRONG, but not for the right reasons)
 
 &nbsp;
 
@@ -353,14 +353,14 @@ ___
 
 &nbsp;
 
-## __2. Задача разбора (WIP - overall last check) (3175 chars) (Topic 1: pra3: 23. -> 26.)__
+## __2. Задача разбора (WIP - completed, normalize length) (3170 chars) (Topic 1: pra3: 23. -> 26.)__
 
 &nbsp;
 
 Разбор сентенциальной формы означает построение вывода и,
 возможно, синтаксического дерева для неё.
 Программу разбора также называют распознавателем, т.к. она
-распознает только предложения рассматриваемой грамматики.
+распознает только предложения рассматриваемой грамматики
 (например, мы можем распознавать программы, написанные на
 языке программирования).
 
@@ -389,7 +389,7 @@ $$
 $$
 
 На каждом последующем шаге самый левый элементарный
-символ $V$ текущей сентенциальной формы $xV \; y$
+символ $V$ текущей сентенциальной формы $xVy$
 заменяется на правую часть правила $V \Coloneqq u$,
 в результате получается следующая сентенциальная форма.
 Этот процесс для предложения 35 представлен в виде пяти (5)
@@ -482,7 +482,7 @@ ___
 
 &nbsp;
 
-## __4. Диаграмма состояний (WIP - overall last check) (3032 chars) (Topic 1: pra3: 31 -> 34; pra4: 35 -> 36)__
+## __4. Диаграмма состояний (WIP - completed, normalize length) (3032 chars) (Topic 1: pra3: 31 -> 34; pra4: 35 -> 36)__
 
 &nbsp;
 
@@ -563,7 +563,7 @@ ___
 
 &nbsp;
 
-## __5. Конечный автомат (WIP - overall last check) (2003 chars) (Topic 1: pra4: 37. -> 39.)__
+## __5. Конечный автомат (WIP - completed, normalize length) (2003 chars) (Topic 1: pra4: 37. -> 39.)__
 
 &nbsp;
 
@@ -618,7 +618,7 @@ ___
 
 &nbsp;
 
-## __6. Представление автоматов (WIP - overall last check) (1185 chars) (Topic 1: pra4: 41. -> 42.)__
+## __6. Представление автоматов (WIP - completed, normalize length) (1185 chars) (Topic 1: pra4: 41. -> 42.)__
 
 &nbsp;
 
@@ -819,7 +819,7 @@ ___
 
 &nbsp;
 
-## __11. Толково-комбинаторный словарь (ТКС). Словарная статья такого словаря. (WIP - overall last check) (1320 chars) (Topic 2: pra5: 21. -> 22.)__
+## __11. Толково-комбинаторный словарь (ТКС). Словарная статья такого словаря. (WIP - completed, normalize length) (1320 chars) (Topic 2: pra5: 21. -> 22.)__
 
 &nbsp;
 
