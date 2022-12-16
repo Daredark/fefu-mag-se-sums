@@ -26,6 +26,34 @@ ___
 
 &nbsp;
 
+## Задания до 21.12.2022
+
+&nbsp;
+
+### ___Английский язык для специальных целей___
+
+&nbsp;
+
+- Для тех, кто был на паре 14.12.2022 (module 1. Reading.pdf):
+    - Pages 18-19. Exercise 2.
+    - Page 19. Exercise 4.
+    - Page 20. Exercise 6.
+- Для тех, кого НЕ было на паре 14.12.2022 (module 1. Reading.pdf):
+    - Page 14. Exercises 1, 2 (translate these expressions).
+    - Pages 14-15. Exercise 4 (write down new words).
+    - Page 16. Exercise 5 (write down new words).
+    - Page 16. Exercise 6.
+    - Page 17. Exercises 7-9.
+    - Pages 18-19. Exercise 2.
+    - Page 19. Exercise 4.
+    - Page 20. Exercise 6.
+
+&nbsp;
+
+___
+
+&nbsp;
+
 ## Задания до 16.12.2022
 
 &nbsp;
