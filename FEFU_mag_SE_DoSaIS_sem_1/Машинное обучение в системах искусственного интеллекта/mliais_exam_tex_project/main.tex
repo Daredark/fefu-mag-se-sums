@@ -1,0 +1,134 @@
+\documentclass[
+    14pt,
+    a4paper,
+    oneside,
+    openany,
+    draft
+    %final
+]{extreport}
+
+\usepackage[]{fontspec}
+\setmainfont{Times New Roman}
+\usepackage[russian]{babel}
+%\usepackage[russianb]{babel}
+%\usepackage[T2A, T1]{fontenc}
+%\usepackage[utf8]{inputenc}
+
+\usepackage[autostyle]{csquotes}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{biblatex-examples.bib}
+
+\usepackage{graphicx}
+
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{amssymb}
+%\usepackage{amsmath,amsthm,amsfonts}
+
+\usepackage{mathrsfs}
+
+%\usepackage[subpreambles=true]{standalone}
+%\usepackage{import}
+
+\usepackage{pdfpages}
+
+%\usepackage{url}
+
+%\title{\LaTeX{} ePub Template}
+%\author{A Author}
+
+\begin{document}
+
+%\refstepcounter{chapter}
+
+% lualatex -> biber -> lualatex -> lualatex
+
+% titlepage
+% оглавление
+% основная часть
+    % общая инфа
+    % метрические методы классификации
+    % ...
+% список литературы
+% глоссарий всех определений
+% вопросы на экзамен и ответы на них
+
+
+\nocite{*}
+
+\begin{titlepage}
+    \includegraphics[]{figures/titlepage.jpg}
+\end{titlepage}
+
+\tableofcontents
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Main Part
+
+\chapter{Основная часть}
+
+%\chapter*{Типо основная часть}
+%\addcontentsline{toc}{chapter}{Типо основная часть}
+
+%\import{sections/}{introduction_toml}
+
+% input sections here
+
+\input{sections/introduction_toml.tex}
+
+%\input{sections/learning.tex}
+
+%\input{sections/metric_classification_methods.tex}
+
+%\input{sections/logical_classification_methods.tex}
+
+%\input{sections/linear_classification_methods.tex}
+
+%\input{sections/bayesian_classification_methods.tex}
+
+%\input{sections/clustering_methods.tex}
+
+\input{sections/classification_quality_assessment.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Глоссарий}
+
+\chapter{Вопросы на экзамен}
+
+%\clearpage
+
+%\addcontentsline{toc}{Chapter}{Список литературы}
+%\addcontentsline{toc}
+
+%\bibliographystyle{plain}
+%\printbibliography
+\printbibliography[heading=bibintoc]
+
+% Introduction:
+    % lec 1 - copied ->
+    % lab 1 - copied ->
+% Learning:
+    % lec 2 - copied ->
+% Metric Classification Methods:
+    % lab 2 - copied ->
+    % lec 3 - copied ->
+    % lab 3 - nothing to copy
+    % lab 4 - copied ->
+% Logical Classification Methods:
+    % Lec 4 - copied ->
+    % Lec 5 - copied ->
+    % Lab 5 - copied ->
+% Linear Classification Methods:
+    % Lec 6 - copied ->
+    % Lab 6 - copied ->
+% Bayesian classification methods:
+    % Lab 6 - copied ->
+    % Lec 7 - copied ->
+% Clustering methods:
+    % Lab 7 - copied ->
+% Classification quality assessment:
+    % Lec 8 -
+
+\end{document}
